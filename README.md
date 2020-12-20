@@ -9,6 +9,7 @@ We propose a general framework to synthesize the primitives of 3D photography in
 Visualization
 --
 Click for visualization. 
+
 <a href="http://home.ustc.edu.cn/~zh2991/21TVCG_3DDeepHiding/test1_proposed.mp4" rel="Video"><img src="http://home.ustc.edu.cn/~zh2991/21TVCG_3DDeepHiding/test1_proposed.jpg" alt="Video" width="20%"></a>==
 <a href="http://home.ustc.edu.cn/~zh2991/21TVCG_3DDeepHiding/test2_proposed.mp4" rel="Video"><img src="http://home.ustc.edu.cn/~zh2991/21TVCG_3DDeepHiding/test2_proposed.jpg" alt="Video" width="20%"></a>==
 <a href="http://home.ustc.edu.cn/~zh2991/21TVCG_3DDeepHiding/test3_proposed.mp4" rel="Video"><img src="http://home.ustc.edu.cn/~zh2991/21TVCG_3DDeepHiding/test3_proposed.jpg" alt="Video" width="20%"></a>==
